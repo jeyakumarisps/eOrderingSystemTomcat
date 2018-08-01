@@ -1,0 +1,3 @@
+<jboss-web>
+    <context-root>bigBites</context-root>
+</jboss-web>
